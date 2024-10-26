@@ -163,3 +163,4 @@ cython_debug/
 churn_pipeline.skops
 metrics.txt
 model_results.png
+roc_curve.png
